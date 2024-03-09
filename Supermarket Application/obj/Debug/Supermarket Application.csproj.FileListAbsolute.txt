@@ -1,0 +1,57 @@
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\bin\Debug\Supermarket Application.exe.config
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\bin\Debug\Supermarket Application.exe
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\bin\Debug\Supermarket Application.pdb
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.csproj.AssemblyReference.cache
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.Form1.resources
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.Properties.Resources.resources
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.csproj.GenerateResource.cache
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.csproj.CoreCompileInputs.cache
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.exe
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.pdb
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.Splash.resources
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.ProductForm.resources
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.SallerForm2.resources
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.CategoryForm.resources
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.SellingForm.resources
+C:\Users\Avishka Hewagamage\Desktop\New folder (3)\GUI CoursWork\Supermarket Application\Supermarket Application\bin\Debug\Supermarket Application.exe.config
+C:\Users\Avishka Hewagamage\Desktop\New folder (3)\GUI CoursWork\Supermarket Application\Supermarket Application\bin\Debug\Supermarket Application.exe
+C:\Users\Avishka Hewagamage\Desktop\New folder (3)\GUI CoursWork\Supermarket Application\Supermarket Application\bin\Debug\Supermarket Application.pdb
+C:\Users\Avishka Hewagamage\Desktop\New folder (3)\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.csproj.AssemblyReference.cache
+C:\Users\Avishka Hewagamage\Desktop\New folder (3)\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Avishka Hewagamage\Desktop\New folder (3)\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.CategoryForm.resources
+C:\Users\Avishka Hewagamage\Desktop\New folder (3)\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.Form1.resources
+C:\Users\Avishka Hewagamage\Desktop\New folder (3)\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.ProductForm.resources
+C:\Users\Avishka Hewagamage\Desktop\New folder (3)\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.Properties.Resources.resources
+C:\Users\Avishka Hewagamage\Desktop\New folder (3)\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.SallerForm2.resources
+C:\Users\Avishka Hewagamage\Desktop\New folder (3)\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.SellingForm.resources
+C:\Users\Avishka Hewagamage\Desktop\New folder (3)\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.Splash.resources
+C:\Users\Avishka Hewagamage\Desktop\New folder (3)\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.csproj.GenerateResource.cache
+C:\Users\Avishka Hewagamage\Desktop\New folder (3)\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.csproj.CoreCompileInputs.cache
+C:\Users\Avishka Hewagamage\Desktop\New folder (3)\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.exe
+C:\Users\Avishka Hewagamage\Desktop\New folder (3)\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.pdb
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\bin\Debug\Supermarket Application.exe.manifest
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\bin\Debug\Supermarket Application.application
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.TrustInfo.xml
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.exe.manifest
+C:\Users\Avishka Hewagamage\Desktop\GUI CoursWork\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.application
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\bin\Debug\Supermarket Application.exe.config
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\bin\Debug\Supermarket Application.exe.manifest
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\bin\Debug\Supermarket Application.application
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\bin\Debug\Supermarket Application.exe
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\bin\Debug\Supermarket Application.pdb
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.csproj.AssemblyReference.cache
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.CategoryForm.resources
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.Form1.resources
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.ProductForm.resources
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.Properties.Resources.resources
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.SallerForm2.resources
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.SellingForm.resources
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\obj\Debug\Supermarket_Application.Splash.resources
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.csproj.GenerateResource.cache
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.csproj.CoreCompileInputs.cache
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.TrustInfo.xml
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.exe.manifest
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.application
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.exe
+C:\Users\Avishka Hewagamage\Desktop\Supermarket Application\Supermarket Application\obj\Debug\Supermarket Application.pdb
